@@ -1,2 +1,2 @@
 # thirukural
-Thirukural Assistant in Flask
+Thirukural Skill for Alexa in Flask
